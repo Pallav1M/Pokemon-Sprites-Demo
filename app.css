@@ -1,0 +1,8 @@
+.pokemon{
+    display : inline-block;
+    text-align : center;
+}
+/* all images inside pokemon have display of block  */
+ .pokemon img{
+    display : block;
+}
